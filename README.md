@@ -1,3 +1,3 @@
 ### Hi!
 
-![Alebian's GitHub stats](https://github-readme-stats.vercel.app/api?username=alebian&count_private=true&show_icons=true&theme=buefy)
+![Alebian's GitHub stats](https://github-readme-stats.vercel.app/api?username=alebian&count_private=true&show_icons=true&theme=buefy&border_color=ffffff)
